@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "url": "./assets/1.png",
+      "tag": "Headphones",
+      "title": "Wireless Audio System Multiroom 360",
+      "price": 900,
+      "stock": 10,
+      "rate": 4,
+      "reviews": [
+        {
+          "reviews": "best headphone\n"
+        },
+        {
+          "reviews": "hello\n"
+        },
+        {
+          "reviews": "Hero and Ahmed"
+        }
+      ],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat."
+    },
+    {
+      "id": 1,
+      "url": "./assets/2.png",
+      "tag": "Headphones",
+      "title": "Beast headset",
+      "price": 900,
+      "stock": 5,
+      "rate": 5,
+      "reviews": [
+        {
+          "reviews": "Beast headset\n"
+        },
+        {
+          "reviews": "providesTags"
+        },
+        {
+          "reviews": "quark\n"
+        }
+      ],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat."
+    },
+    {
+      "id": 2,
+      "url": "./assets/3.png",
+      "tag": "Laptops",
+      "title": "Beast laptop",
+      "price": 900,
+      "stock": 12,
+      "rate": 4,
+      "reviews": [
+        {
+          "reviews": "good laptop"
+        },
+        {
+          "reviews": "LFYO TEAM"
+        },
+        {
+          "reviews": "laptop"
+        },
+        {
+          "reviews": "00"
+        }
+      ],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat."
+    },
+    {
+      "id": 3,
+      "url": "./assets/4.png",
+      "tag": "Headphones",
+      "title": "Beast headset",
+      "price": 700,
+      "stock": 10,
+      "rate": 2,
+      "reviews": [],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat."
+    },
+    {
+      "id": 4,
+      "url": "./assets/5.png",
+      "tag": "Gadgets",
+      "title": "Beast watch",
+      "price": 800,
+      "stock": 0,
+      "rate": 4,
+      "reviews": [],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat."
+    },
+    {
+      "id": 5,
+      "url": "./assets/6.png",
+      "tag": "Headphones",
+      "title": "Beast headset",
+      "price": 1000,
+      "stock": 8,
+      "rate": 3,
+      "reviews": [],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat."
+    }
+  ],
+  "profiles": [
+    {}
+  ]
+}
